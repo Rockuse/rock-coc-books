@@ -1,0 +1,24 @@
+{
+  "id": "coc7-universal-books",
+  "title": "CoC7 Universal Books Library",
+  "description": "CoC7 native Books Library: 640 books in 16 compendiums, including four separate 100-book focused collections.",
+  "version": "0.2.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": {
+          "minimum": "8.16"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/install.mjs"
+  ]
+}

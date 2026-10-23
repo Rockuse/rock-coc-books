@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Encyclopaedia Britannica (First Edition)",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Multiple contributors",
+      "content": "<p><em>Encyclopaedia Britannica (First Edition)</em> — Multiple contributors.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1771 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1771
+      }
+    }
+  },
+  {
+    "name": "A Dictionary of the English Language",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Samuel Johnson",
+      "content": "<p><em>A Dictionary of the English Language</em> — Samuel Johnson.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1755 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1755
+      }
+    }
+  },
+  {
+    "name": "Roget’s Thesaurus",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Peter Mark Roget",
+      "content": "<p><em>Roget’s Thesaurus</em> — Peter Mark Roget.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1852 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1852
+      }
+    }
+  },
+  {
+    "name": "The Oxford English Dictionary (First Fascicle)",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Oxford University Press",
+      "content": "<p><em>The Oxford English Dictionary (First Fascicle)</em> — Oxford University Press.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1884 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1884
+      }
+    }
+  },
+  {
+    "name": "The Elements of Style",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "William Strunk Jr.",
+      "content": "<p><em>The Elements of Style</em> — William Strunk Jr..</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1918 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1918
+      }
+    }
+  },
+  {
+    "name": "The Chicago Manual of Style",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "University of Chicago Press",
+      "content": "<p><em>The Chicago Manual of Style</em> — University of Chicago Press.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1906 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1906
+      }
+    }
+  },
+  {
+    "name": "The World Almanac and Book of Facts",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Multiple contributors",
+      "content": "<p><em>The World Almanac and Book of Facts</em> — Multiple contributors.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1868 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1868
+      }
+    }
+  },
+  {
+    "name": "The Blue Book of Grammar and Punctuation",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Jane Straus",
+      "content": "<p><em>The Blue Book of Grammar and Punctuation</em> — Jane Straus.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1997 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Modern only",
+        "publicationYear": 1997
+      }
+    }
+  },
+  {
+    "name": "A Dictionary of Modern English Usage",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "H. W. Fowler",
+      "content": "<p><em>A Dictionary of Modern English Usage</em> — H. W. Fowler.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1926 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1926
+      }
+    }
+  },
+  {
+    "name": "The Elements of Euclid",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Euclid",
+      "content": "<p><em>The Elements of Euclid</em> — Euclid.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "300 BCE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": -300
+      }
+    }
+  },
+  {
+    "name": "The Bexley Directory of Trades",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>The Bexley Directory of Trades</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1847 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1847
+      }
+    }
+  },
+  {
+    "name": "The Blackwater Shipping Almanac",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The Blackwater Shipping Almanac</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1879 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1879
+      }
+    }
+  },
+  {
+    "name": "A Schoolbook of Coastal Botany",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>A Schoolbook of Coastal Botany</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1888 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1888
+      }
+    }
+  },
+  {
+    "name": "The Greyfen Gazetteer",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>The Greyfen Gazetteer</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1912 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1912
+      }
+    }
+  },
+  {
+    "name": "The Parish Birth and Death Index",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Parish Birth and Death Index</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1926 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1926
+      }
+    }
+  },
+  {
+    "name": "The Bexley College Reader",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>The Bexley College Reader</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1948 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1948
+      }
+    }
+  },
+  {
+    "name": "The Harbor Signal Codebook",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The Harbor Signal Codebook</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1974 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1974
+      }
+    }
+  },
+  {
+    "name": "The North County School Atlas",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>The North County School Atlas</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1998 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 1998
+      }
+    }
+  },
+  {
+    "name": "A Dictionary of Local Dialects",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>A Dictionary of Local Dialects</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2009 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2009
+      }
+    }
+  },
+  {
+    "name": "The Clerk’s Pocket Reference",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Clerk’s Pocket Reference</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2019 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Reference &amp; Education.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Reference & Education",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2019
+      }
+    }
+  }
+]

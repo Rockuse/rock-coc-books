@@ -1,0 +1,922 @@
+[
+  {
+    "name": "The History of the Decline and Fall of the Roman Empire",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edward Gibbon",
+      "content": "<p><em>The History of the Decline and Fall of the Roman Empire</em> — Edward Gibbon.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1776 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1776
+      }
+    }
+  },
+  {
+    "name": "The Histories",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Herodotus",
+      "content": "<p><em>The Histories</em> — Herodotus.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "440 BCE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": -440
+      }
+    }
+  },
+  {
+    "name": "History of the Peloponnesian War",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thucydides",
+      "content": "<p><em>History of the Peloponnesian War</em> — Thucydides.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "400 BCE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": -400
+      }
+    }
+  },
+  {
+    "name": "The Anglo-Saxon Chronicle",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Multiple medieval chroniclers",
+      "content": "<p><em>The Anglo-Saxon Chronicle</em> — Multiple medieval chroniclers.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "890 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 890
+      }
+    }
+  },
+  {
+    "name": "The Golden Bough",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "James George Frazer",
+      "content": "<p><em>The Golden Bough</em> — James George Frazer.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1890 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1890
+      }
+    }
+  },
+  {
+    "name": "The Archaeology of Knowledge",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Michel Foucault",
+      "content": "<p><em>The Archaeology of Knowledge</em> — Michel Foucault.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1969 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1969
+      }
+    }
+  },
+  {
+    "name": "The Ancient City",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Numa Denis Fustel de Coulanges",
+      "content": "<p><em>The Ancient City</em> — Numa Denis Fustel de Coulanges.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1864 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1864
+      }
+    }
+  },
+  {
+    "name": "The Histories of Tacitus",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Tacitus",
+      "content": "<p><em>The Histories of Tacitus</em> — Tacitus.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "105 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 105
+      }
+    }
+  },
+  {
+    "name": "The Civilization of the Renaissance in Italy",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Jacob Burckhardt",
+      "content": "<p><em>The Civilization of the Renaissance in Italy</em> — Jacob Burckhardt.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1860 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1860
+      }
+    }
+  },
+  {
+    "name": "The Discovery of the Tomb of Tutankhamen",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Howard Carter and A. C. Mace",
+      "content": "<p><em>The Discovery of the Tomb of Tutankhamen</em> — Howard Carter and A. C. Mace.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1923 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1923
+      }
+    }
+  },
+  {
+    "name": "Excavations at Greyfen Moor",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>Excavations at Greyfen Moor</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1847 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1847
+      }
+    }
+  },
+  {
+    "name": "The Kings Beneath the Chalk",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The Kings Beneath the Chalk</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1879 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1879
+      }
+    }
+  },
+  {
+    "name": "Bexley Parish Records: 1710–1840",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>Bexley Parish Records: 1710–1840</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1888 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1888
+      }
+    }
+  },
+  {
+    "name": "A Survey of Forgotten Barrows",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>A Survey of Forgotten Barrows</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1912 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1912
+      }
+    }
+  },
+  {
+    "name": "The Ashford Excavation Diary",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Ashford Excavation Diary</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1926 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1926
+      }
+    }
+  },
+  {
+    "name": "The Lost Priory of Saint Agnes",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>The Lost Priory of Saint Agnes</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1948 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1948
+      }
+    }
+  },
+  {
+    "name": "A Chronicle of Blackwater Port",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>A Chronicle of Blackwater Port</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1974 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1974
+      }
+    }
+  },
+  {
+    "name": "Notes on the Roman Road",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>Notes on the Roman Road</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1998 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 1998
+      }
+    }
+  },
+  {
+    "name": "The Abbey Cellar Inventory",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>The Abbey Cellar Inventory</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2009 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2009
+      }
+    }
+  },
+  {
+    "name": "The Red Clay Tablets",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Red Clay Tablets</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2019 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> History &amp; Archaeology.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "History & Archaeology",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2019
+      }
+    }
+  }
+]

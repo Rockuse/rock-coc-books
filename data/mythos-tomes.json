@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Necronomicon (Al-Azif)",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Abdul Alhazred (fictional attribution)",
+      "content": "<p><em>Necronomicon (Al-Azif)</em> — Abdul Alhazred (fictional attribution).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Arabic",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "De Vermis Mysteriis",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Ludvig Prinn (fictional attribution)",
+      "content": "<p><em>De Vermis Mysteriis</em> — Ludvig Prinn (fictional attribution).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Book of Eibon",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eibon (fictional attribution)",
+      "content": "<p><em>The Book of Eibon</em> — Eibon (fictional attribution).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "Unaussprechlichen Kulten",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Friedrich von Junzt (fictional attribution)",
+      "content": "<p><em>Unaussprechlichen Kulten</em> — Friedrich von Junzt (fictional attribution).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "Cultes des Goules",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Comte d’Erlette (fictional attribution)",
+      "content": "<p><em>Cultes des Goules</em> — Comte d’Erlette (fictional attribution).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "Pnakotic Manuscripts",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown (fictional)",
+      "content": "<p><em>Pnakotic Manuscripts</em> — Unknown (fictional).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The King in Yellow",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown (fictional)",
+      "content": "<p><em>The King in Yellow</em> — Unknown (fictional).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Eltdown Shards",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown (fictional)",
+      "content": "<p><em>The Eltdown Shards</em> — Unknown (fictional).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Celaeno Fragments",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown (fictional)",
+      "content": "<p><em>The Celaeno Fragments</em> — Unknown (fictional).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Seven Cryptical Books of Hsan",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Hsan (fictional attribution)",
+      "content": "<p><em>The Seven Cryptical Books of Hsan</em> — Hsan (fictional attribution).</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Established fictional Mythos title.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Established fictional Mythos title. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 4
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 4,
+      "sanityLoss": "1d4",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 12,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Established fictional Mythos title",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Blackwater Codex",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Blackwater Codex</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Salt-Stained Gospel",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Salt-Stained Gospel</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Ledger of Deep Names",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Ledger of Deep Names</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Pallid Tide",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Pallid Tide</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Book of the Third Door",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Book of the Third Door</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Testament of the Sleepless",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Testament of the Sleepless</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Black Reef Tablets",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Black Reef Tablets</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Hollow Star Catalogue",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Hollow Star Catalogue</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Chants of the Lower Deep",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Chants of the Lower Deep</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  },
+  {
+    "name": "The Ninth Bell Manuscript",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Unknown",
+      "content": "<p><em>The Ninth Bell Manuscript</em> — Unknown.</p><p>Forbidden fragments, marginal annotations, and troubling references await the Keeper’s scenario-specific clues.</p>",
+      "date": "Undated manuscript",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Mythos Tomes.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Keeper decides (fictional provenance).</p><p><strong>Investigation use:</strong> An ominous source of forbidden knowledge, symbols, or clues; Keeper should tailor revelations and SAN consequences.</p><p><em>Mythos values are optional homebrew placeholders, not official published tome statistics. Keeper should approve before use.</em></p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "hard",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 1,
+          "final": 2
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "Unknown / translation dependent",
+      "mythosRating": 2,
+      "sanityLoss": "1d3",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 6,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": true,
+        "occult": false,
+        "other": false
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Mythos Tomes",
+        "sourceType": "Original fictional game prop",
+        "era": "Keeper decides (fictional provenance)",
+        "publicationYear": null
+      }
+    }
+  }
+]

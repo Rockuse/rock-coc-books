@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Experimental Researches in Electricity",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Michael Faraday",
+      "content": "<p><em>Experimental Researches in Electricity</em> — Michael Faraday.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1839 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1839
+      }
+    }
+  },
+  {
+    "name": "The Theory of Heat",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "James Clerk Maxwell",
+      "content": "<p><em>The Theory of Heat</em> — James Clerk Maxwell.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1871 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1871
+      }
+    }
+  },
+  {
+    "name": "The Steam Engine and Other Heat Engines",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "J. A. Ewing",
+      "content": "<p><em>The Steam Engine and Other Heat Engines</em> — J. A. Ewing.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1894 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1894
+      }
+    }
+  },
+  {
+    "name": "Radio for the Millions",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Hugo Gernsback",
+      "content": "<p><em>Radio for the Millions</em> — Hugo Gernsback.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1922 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1922
+      }
+    }
+  },
+  {
+    "name": "The New Science",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Giambattista Vico",
+      "content": "<p><em>The New Science</em> — Giambattista Vico.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1725 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1725
+      }
+    }
+  },
+  {
+    "name": "Cybernetics",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Norbert Wiener",
+      "content": "<p><em>Cybernetics</em> — Norbert Wiener.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1948 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1948
+      }
+    }
+  },
+  {
+    "name": "The Art of Electronics",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Paul Horowitz and Winfield Hill",
+      "content": "<p><em>The Art of Electronics</em> — Paul Horowitz and Winfield Hill.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1980 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Modern only",
+        "publicationYear": 1980
+      }
+    }
+  },
+  {
+    "name": "The C Programming Language",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Brian Kernighan and Dennis Ritchie",
+      "content": "<p><em>The C Programming Language</em> — Brian Kernighan and Dennis Ritchie.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1978 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1978
+      }
+    }
+  },
+  {
+    "name": "The Mythical Man-Month",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Frederick P. Brooks Jr.",
+      "content": "<p><em>The Mythical Man-Month</em> — Frederick P. Brooks Jr..</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1975 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1975
+      }
+    }
+  },
+  {
+    "name": "The Design of Everyday Things",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Donald Norman",
+      "content": "<p><em>The Design of Everyday Things</em> — Donald Norman.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1988 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Historical publication",
+        "era": "Modern only",
+        "publicationYear": 1988
+      }
+    }
+  },
+  {
+    "name": "The Blackwater Engine Manual",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>The Blackwater Engine Manual</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1847 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1847
+      }
+    }
+  },
+  {
+    "name": "Plans for the North Pier Crane",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>Plans for the North Pier Crane</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1879 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1879
+      }
+    }
+  },
+  {
+    "name": "The Telegraph Operator’s Handbook",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>The Telegraph Operator’s Handbook</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1888 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1888
+      }
+    }
+  },
+  {
+    "name": "The Lighthouse Lens Maintenance Log",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>The Lighthouse Lens Maintenance Log</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1912 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1912
+      }
+    }
+  },
+  {
+    "name": "The Bexley Railway Signal Book",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Bexley Railway Signal Book</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1926 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1926
+      }
+    }
+  },
+  {
+    "name": "The Shipwright’s Repair Ledger",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>The Shipwright’s Repair Ledger</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1948 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1948
+      }
+    }
+  },
+  {
+    "name": "The Greyfen Pumping Station Notes",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The Greyfen Pumping Station Notes</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1974 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1974
+      }
+    }
+  },
+  {
+    "name": "The Silent Transmitter Schematics",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>The Silent Transmitter Schematics</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1998 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 1998
+      }
+    }
+  },
+  {
+    "name": "The Harbor Winch Diagram",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>The Harbor Winch Diagram</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2009 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2009
+      }
+    }
+  },
+  {
+    "name": "The Clockmaker’s Mechanical Tables",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Clockmaker’s Mechanical Tables</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2019 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Technology &amp; Engineering.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Technology & Engineering",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2019
+      }
+    }
+  }
+]

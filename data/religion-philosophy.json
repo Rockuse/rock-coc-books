@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Meditations",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Marcus Aurelius",
+      "content": "<p><em>Meditations</em> — Marcus Aurelius.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "180 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 180
+      }
+    }
+  },
+  {
+    "name": "The Republic",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Plato",
+      "content": "<p><em>The Republic</em> — Plato.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "375 BCE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": -375
+      }
+    }
+  },
+  {
+    "name": "Confessions",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Augustine of Hippo",
+      "content": "<p><em>Confessions</em> — Augustine of Hippo.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "400 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 400
+      }
+    }
+  },
+  {
+    "name": "The Imitation of Christ",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas à Kempis",
+      "content": "<p><em>The Imitation of Christ</em> — Thomas à Kempis.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1418 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1418
+      }
+    }
+  },
+  {
+    "name": "Critique of Pure Reason",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Immanuel Kant",
+      "content": "<p><em>Critique of Pure Reason</em> — Immanuel Kant.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1781 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1781
+      }
+    }
+  },
+  {
+    "name": "Thus Spoke Zarathustra",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Friedrich Nietzsche",
+      "content": "<p><em>Thus Spoke Zarathustra</em> — Friedrich Nietzsche.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1883 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1883
+      }
+    }
+  },
+  {
+    "name": "The Analects",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Confucius",
+      "content": "<p><em>The Analects</em> — Confucius.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "450 BCE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": -450
+      }
+    }
+  },
+  {
+    "name": "Tao Te Ching",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Laozi (traditional attribution)",
+      "content": "<p><em>Tao Te Ching</em> — Laozi (traditional attribution).</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "400 BCE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": -400
+      }
+    }
+  },
+  {
+    "name": "The World as Will and Representation",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Arthur Schopenhauer",
+      "content": "<p><em>The World as Will and Representation</em> — Arthur Schopenhauer.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1818 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1818
+      }
+    }
+  },
+  {
+    "name": "Being and Time",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Martin Heidegger",
+      "content": "<p><em>Being and Time</em> — Martin Heidegger.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1927 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1927
+      }
+    }
+  },
+  {
+    "name": "The Candlelit Sermons",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>The Candlelit Sermons</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1847 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1847
+      }
+    }
+  },
+  {
+    "name": "The Grey Abbey Catechism",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The Grey Abbey Catechism</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1879 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1879
+      }
+    }
+  },
+  {
+    "name": "The Pilgrim of Hollow Hill",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>The Pilgrim of Hollow Hill</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1888 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1888
+      }
+    }
+  },
+  {
+    "name": "The Silent Bell Homilies",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>The Silent Bell Homilies</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1912 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1912
+      }
+    }
+  },
+  {
+    "name": "A Dialogue at the End of Days",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>A Dialogue at the End of Days</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1926 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1926
+      }
+    }
+  },
+  {
+    "name": "The Fisherman’s Prayerbook",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>The Fisherman’s Prayerbook</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1948 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1948
+      }
+    }
+  },
+  {
+    "name": "The Blackwater Chapel Manuscript",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The Blackwater Chapel Manuscript</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1974 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1974
+      }
+    }
+  },
+  {
+    "name": "The Last Confession of Father Vale",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>The Last Confession of Father Vale</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1998 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 1998
+      }
+    }
+  },
+  {
+    "name": "The Book of Seven Vigils",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>The Book of Seven Vigils</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2009 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2009
+      }
+    }
+  },
+  {
+    "name": "The Mercy of the Drowned",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Mercy of the Drowned</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2019 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Religion &amp; Philosophy.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Religion & Philosophy",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2019
+      }
+    }
+  }
+]

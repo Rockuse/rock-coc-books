@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Philosophiæ Naturalis Principia Mathematica",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Isaac Newton",
+      "content": "<p><em>Philosophiæ Naturalis Principia Mathematica</em> — Isaac Newton.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1687 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1687
+      }
+    }
+  },
+  {
+    "name": "On the Origin of Species",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Charles Darwin",
+      "content": "<p><em>On the Origin of Species</em> — Charles Darwin.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1859 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1859
+      }
+    }
+  },
+  {
+    "name": "A Treatise on Electricity and Magnetism",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "James Clerk Maxwell",
+      "content": "<p><em>A Treatise on Electricity and Magnetism</em> — James Clerk Maxwell.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1873 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1873
+      }
+    }
+  },
+  {
+    "name": "Elements",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Euclid",
+      "content": "<p><em>Elements</em> — Euclid.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "300 BCE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": -300
+      }
+    }
+  },
+  {
+    "name": "The Chemical History of a Candle",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Michael Faraday",
+      "content": "<p><em>The Chemical History of a Candle</em> — Michael Faraday.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1861 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1861
+      }
+    }
+  },
+  {
+    "name": "The Interpretation of Radium",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Frederick Soddy",
+      "content": "<p><em>The Interpretation of Radium</em> — Frederick Soddy.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1909 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1909
+      }
+    }
+  },
+  {
+    "name": "The Nature of the Physical World",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Arthur Eddington",
+      "content": "<p><em>The Nature of the Physical World</em> — Arthur Eddington.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1928 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Classic & Modern",
+        "publicationYear": 1928
+      }
+    }
+  },
+  {
+    "name": "The Selfish Gene",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Richard Dawkins",
+      "content": "<p><em>The Selfish Gene</em> — Richard Dawkins.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1976 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1976
+      }
+    }
+  },
+  {
+    "name": "A Brief History of Time",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Stephen Hawking",
+      "content": "<p><em>A Brief History of Time</em> — Stephen Hawking.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1988 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Modern only",
+        "publicationYear": 1988
+      }
+    }
+  },
+  {
+    "name": "The Double Helix",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "James D. Watson",
+      "content": "<p><em>The Double Helix</em> — James D. Watson.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1968 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Historical publication.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Historical publication. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Historical publication",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1968
+      }
+    }
+  },
+  {
+    "name": "A Manual of Unusual Tides",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>A Manual of Unusual Tides</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1847 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1847
+      }
+    }
+  },
+  {
+    "name": "The Blackwater Observatory Notes",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The Blackwater Observatory Notes</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1879 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1879
+      }
+    }
+  },
+  {
+    "name": "The Glass Prism Experiments",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>The Glass Prism Experiments</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1888 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1888
+      }
+    }
+  },
+  {
+    "name": "On Unseasonal Fungal Growth",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>On Unseasonal Fungal Growth</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1912 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1912
+      }
+    }
+  },
+  {
+    "name": "The Greyfen Meteorite Study",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Greyfen Meteorite Study</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1926 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Classic &amp; Modern.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Classic & Modern",
+        "publicationYear": 1926
+      }
+    }
+  },
+  {
+    "name": "Mathematical Curiosities of Bexley",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Eleanor Vale",
+      "content": "<p><em>Mathematical Curiosities of Bexley</em> — Eleanor Vale.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1948 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1948
+      }
+    }
+  },
+  {
+    "name": "The North Pier Field Measurements",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Edmund Voss",
+      "content": "<p><em>The North Pier Field Measurements</em> — Edmund Voss.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1974 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern / late 20th century.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern / late 20th century",
+        "publicationYear": 1974
+      }
+    }
+  },
+  {
+    "name": "The Silent Frequency",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "M. Harrow",
+      "content": "<p><em>The Silent Frequency</em> — M. Harrow.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "1998 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 1998
+      }
+    }
+  },
+  {
+    "name": "A Catalogue of Coastal Minerals",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Clara Whitcomb",
+      "content": "<p><em>A Catalogue of Coastal Minerals</em> — Clara Whitcomb.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2009 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2009
+      }
+    }
+  },
+  {
+    "name": "The Laboratory Notebook of E. Voss",
+    "type": "book",
+    "img": "systems/CoC7/assets/icons/secret-book.svg",
+    "system": {
+      "author": "Thomas Reed",
+      "content": "<p><em>The Laboratory Notebook of E. Voss</em> — Thomas Reed.</p><p>A usable reference work. Insert scenario-specific excerpts, citations, marginalia, or clues here.</p>",
+      "date": "2019 CE",
+      "description": {
+        "value": "<p><strong>Genre:</strong> Science &amp; Mathematics.</p><p><strong>Source:</strong> Original fictional game prop.</p><p><strong>Era:</strong> Modern only.</p><p><strong>Investigation use:</strong> A research source for period context, names, locations, and clues relevant to this genre.</p>",
+        "keeper": "Keeper note: Original fictional game prop. Adapt clues to scenario; not a full-text reproduction."
+      },
+      "difficultyLevel": "regular",
+      "gains": {
+        "cthulhuMythos": {
+          "initial": 0,
+          "final": 0
+        },
+        "occult": 0,
+        "others": []
+      },
+      "language": "English",
+      "mythosRating": 0,
+      "sanityLoss": "0",
+      "itemDocuments": [],
+      "itemKeys": [],
+      "study": {
+        "necessary": 2,
+        "units": "CoC7.weeks"
+      },
+      "type": {
+        "mythos": false,
+        "occult": false,
+        "other": true
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-books": {
+        "genre": "Science & Mathematics",
+        "sourceType": "Original fictional game prop",
+        "era": "Modern only",
+        "publicationYear": 2019
+      }
+    }
+  }
+]

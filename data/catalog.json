@@ -1,0 +1,1922 @@
+[
+  {
+    "genre": "Literature & Fiction",
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "year": 1847,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year": 1847,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "year": 1897,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Time Machine",
+    "author": "H. G. Wells",
+    "year": 1895,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "year": 1898,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The House on Briar Lane",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "A Thousand Winter Evenings",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Midnight Passenger",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Widow of Harrow Street",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "A Season of Ashes",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Glass Orchard",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Last Train to Bexley",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Pale Lantern",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "The Seamstress and the Sea",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Literature & Fiction",
+    "name": "Letters from a Locked Room",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The History of the Decline and Fall of the Roman Empire",
+    "author": "Edward Gibbon",
+    "year": 1776,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Histories",
+    "author": "Herodotus",
+    "year": -440,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "History of the Peloponnesian War",
+    "author": "Thucydides",
+    "year": -400,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Anglo-Saxon Chronicle",
+    "author": "Multiple medieval chroniclers",
+    "year": 890,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Golden Bough",
+    "author": "James George Frazer",
+    "year": 1890,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Archaeology of Knowledge",
+    "author": "Michel Foucault",
+    "year": 1969,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Ancient City",
+    "author": "Numa Denis Fustel de Coulanges",
+    "year": 1864,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Histories of Tacitus",
+    "author": "Tacitus",
+    "year": 105,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Civilization of the Renaissance in Italy",
+    "author": "Jacob Burckhardt",
+    "year": 1860,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Discovery of the Tomb of Tutankhamen",
+    "author": "Howard Carter and A. C. Mace",
+    "year": 1923,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "Excavations at Greyfen Moor",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Kings Beneath the Chalk",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "Bexley Parish Records: 1710–1840",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "A Survey of Forgotten Barrows",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Ashford Excavation Diary",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Lost Priory of Saint Agnes",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "A Chronicle of Blackwater Port",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "Notes on the Roman Road",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Abbey Cellar Inventory",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "History & Archaeology",
+    "name": "The Red Clay Tablets",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "Philosophiæ Naturalis Principia Mathematica",
+    "author": "Isaac Newton",
+    "year": 1687,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "On the Origin of Species",
+    "author": "Charles Darwin",
+    "year": 1859,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "A Treatise on Electricity and Magnetism",
+    "author": "James Clerk Maxwell",
+    "year": 1873,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "Elements",
+    "author": "Euclid",
+    "year": -300,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Chemical History of a Candle",
+    "author": "Michael Faraday",
+    "year": 1861,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Interpretation of Radium",
+    "author": "Frederick Soddy",
+    "year": 1909,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Nature of the Physical World",
+    "author": "Arthur Eddington",
+    "year": 1928,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "year": 1976,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "year": 1988,
+    "sourceType": "Historical publication",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Double Helix",
+    "author": "James D. Watson",
+    "year": 1968,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "A Manual of Unusual Tides",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Blackwater Observatory Notes",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Glass Prism Experiments",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "On Unseasonal Fungal Growth",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Greyfen Meteorite Study",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "Mathematical Curiosities of Bexley",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The North Pier Field Measurements",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Silent Frequency",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "A Catalogue of Coastal Minerals",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Science & Mathematics",
+    "name": "The Laboratory Notebook of E. Voss",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "Gray’s Anatomy",
+    "author": "Henry Gray",
+    "year": 1858,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Principles and Practice of Medicine",
+    "author": "William Osler",
+    "year": 1892,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Interpretation of Dreams",
+    "author": "Sigmund Freud",
+    "year": 1899,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "Studies on Hysteria",
+    "author": "Josef Breuer and Sigmund Freud",
+    "year": 1895,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "A Treatise on the Diseases of the Chest",
+    "author": "René Laennec",
+    "year": 1819,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Principles of Psychology",
+    "author": "William James",
+    "year": 1890,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Mind of a Mnemonist",
+    "author": "Alexander Luria",
+    "year": 1968,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "Man’s Search for Meaning",
+    "author": "Viktor Frankl",
+    "year": 1946,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Expression of the Emotions in Man and Animals",
+    "author": "Charles Darwin",
+    "year": 1872,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Varieties of Religious Experience",
+    "author": "William James",
+    "year": 1902,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Bexley Fever Ward Ledger",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "Dr. Voss’s Case Notes",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Blackwater Quarantine Register",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "A Study of Persistent Night Terrors",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "Notes on the Pallid Fever",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Anatomist’s Private Journal",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Sleepless Patient",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "A Treatise on Unusual Scars",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "The Red Ward Discharge Book",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Medicine & Psychology",
+    "name": "Observations of the Hollow Pulse",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Republic",
+    "author": "Plato",
+    "year": -375,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "Confessions",
+    "author": "Augustine of Hippo",
+    "year": 400,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Imitation of Christ",
+    "author": "Thomas à Kempis",
+    "year": 1418,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "year": 1781,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": 1883,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Analects",
+    "author": "Confucius",
+    "year": -450,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "Tao Te Ching",
+    "author": "Laozi (traditional attribution)",
+    "year": -400,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The World as Will and Representation",
+    "author": "Arthur Schopenhauer",
+    "year": 1818,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "Being and Time",
+    "author": "Martin Heidegger",
+    "year": 1927,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Candlelit Sermons",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Grey Abbey Catechism",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Pilgrim of Hollow Hill",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Silent Bell Homilies",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "A Dialogue at the End of Days",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Fisherman’s Prayerbook",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Blackwater Chapel Manuscript",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Last Confession of Father Vale",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Book of Seven Vigils",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Religion & Philosophy",
+    "name": "The Mercy of the Drowned",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Book of Ceremonial Magic",
+    "author": "Arthur Edward Waite",
+    "year": 1911,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Magus",
+    "author": "Francis Barrett",
+    "year": 1801,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Secret Doctrine",
+    "author": "Helena P. Blavatsky",
+    "year": 1888,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Book of Were-Wolves",
+    "author": "Sabine Baring-Gould",
+    "year": 1865,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Fairy-Faith in Celtic Countries",
+    "author": "W. Y. Evans-Wentz",
+    "year": 1911,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Witch-Cult in Western Europe",
+    "author": "Margaret Murray",
+    "year": 1921,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The White Goddess",
+    "author": "Robert Graves",
+    "year": 1948,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Malleus Maleficarum",
+    "author": "Heinrich Kramer",
+    "year": 1486,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The History of Magic",
+    "author": "Éliphas Lévi",
+    "year": 1860,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Occult Sciences",
+    "author": "A. E. Waite",
+    "year": 1891,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Blackwater Witch Trials",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Lantern Men of Greyfen",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "Rites of the Hollow Moon",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Sea-Wife’s Testament",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Thirteen Knocks",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "A Grimoire of Salt and Bone",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Bells That Ring Below",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Marsh-Circle Almanac",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Drowned Saint of Bexley",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Occult & Folklore",
+    "name": "The Book of Unlit Candles",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "Necronomicon (Al-Azif)",
+    "author": "Abdul Alhazred (fictional attribution)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "De Vermis Mysteriis",
+    "author": "Ludvig Prinn (fictional attribution)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Book of Eibon",
+    "author": "Eibon (fictional attribution)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "Unaussprechlichen Kulten",
+    "author": "Friedrich von Junzt (fictional attribution)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "Cultes des Goules",
+    "author": "Comte d’Erlette (fictional attribution)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "Pnakotic Manuscripts",
+    "author": "Unknown (fictional)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The King in Yellow",
+    "author": "Unknown (fictional)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Eltdown Shards",
+    "author": "Unknown (fictional)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Celaeno Fragments",
+    "author": "Unknown (fictional)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Seven Cryptical Books of Hsan",
+    "author": "Hsan (fictional attribution)",
+    "year": null,
+    "sourceType": "Established fictional Mythos title",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Blackwater Codex",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Salt-Stained Gospel",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Ledger of Deep Names",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Pallid Tide",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Book of the Third Door",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Testament of the Sleepless",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Black Reef Tablets",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Hollow Star Catalogue",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Chants of the Lower Deep",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Mythos Tomes",
+    "name": "The Ninth Bell Manuscript",
+    "author": "Unknown",
+    "year": null,
+    "sourceType": "Original fictional game prop",
+    "era": "Keeper decides (fictional provenance)"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "year": 1532,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Spirit of the Laws",
+    "author": "Montesquieu",
+    "year": 1748,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "On Liberty",
+    "author": "John Stuart Mill",
+    "year": 1859,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Social Contract",
+    "author": "Jean-Jacques Rousseau",
+    "year": 1762,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Federalist Papers",
+    "author": "Alexander Hamilton, James Madison and John Jay",
+    "year": 1788,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "A Theory of Justice",
+    "author": "John Rawls",
+    "year": 1971,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "year": 1776,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "Democracy in America",
+    "author": "Alexis de Tocqueville",
+    "year": 1835,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Communist Manifesto",
+    "author": "Karl Marx and Friedrich Engels",
+    "year": 1848,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The English Constitution",
+    "author": "Walter Bagehot",
+    "year": 1867,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Bexley Municipal Ordinances",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "Port Authority Rules of Blackwater",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Greyfen Inquest Handbook",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Magistrate’s Private Notes",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "A Guide to Parish Elections",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Harbor Customs Register",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "Proceedings of the Coastal Commission",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Missing Witness Depositions",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Town Council Minutes",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Politics & Law",
+    "name": "The Sealed Indictment",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Lives of the Most Excellent Painters, Sculptors, and Architects",
+    "author": "Giorgio Vasari",
+    "year": 1550,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Art of Fugue",
+    "author": "Johann Sebastian Bach",
+    "year": 1751,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "On the Spiritual in Art",
+    "author": "Wassily Kandinsky",
+    "year": 1911,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Elements of Drawing",
+    "author": "John Ruskin",
+    "year": 1857,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Dance of Life",
+    "author": "Havelock Ellis",
+    "year": 1923,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Poetics",
+    "author": "Aristotle",
+    "year": -335,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Notebooks of Leonardo da Vinci",
+    "author": "Leonardo da Vinci",
+    "year": 1651,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Practice of Oil Painting and Drawing",
+    "author": "Solomon J. Solomon",
+    "year": 1910,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "Concerning the Beautiful",
+    "author": "Plotinus",
+    "year": 250,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Art of Music",
+    "author": "Daniel Gregory Mason",
+    "year": 1938,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Blackwater Ballads",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "Songs from the Empty Harbor",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Portraitist’s Sketchbook",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Greyfen Theatre Scripts",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "A Study of Church Bells",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Musician’s Red Notebook",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Last Waltz of Bexley",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Lost Choirbook",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Widow’s Lullaby",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Arts & Music",
+    "name": "The Painter of Hollow Hill",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Travels of Marco Polo",
+    "author": "Marco Polo and Rustichello da Pisa",
+    "year": 1300,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "A Journey to the Western Islands of Scotland",
+    "author": "Samuel Johnson",
+    "year": 1775,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "Travels in the Interior Districts of Africa",
+    "author": "Mungo Park",
+    "year": 1799,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Voyage of the Beagle",
+    "author": "Charles Darwin",
+    "year": 1839,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "Innocents Abroad",
+    "author": "Mark Twain",
+    "year": 1869,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Malay Archipelago",
+    "author": "Alfred Russel Wallace",
+    "year": 1869,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Road to Oxiana",
+    "author": "Robert Byron",
+    "year": 1937,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Seven Pillars of Wisdom",
+    "author": "T. E. Lawrence",
+    "year": 1926,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "A Short Walk in the Hindu Kush",
+    "author": "Eric Newby",
+    "year": 1958,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Snow Leopard",
+    "author": "Peter Matthiessen",
+    "year": 1978,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "A Pilot’s Guide to Blackwater Sound",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Greyfen Marsh Routes",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Cartographer’s Lost Folio",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "An Atlas of Forgotten Footpaths",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Northern Lighthouse Directory",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Coastal Road Almanac",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Innkeeper’s Traveler Register",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Map with No Harbor",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Surveyor’s Last Journey",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Travel & Geography",
+    "name": "The Bexley Walking Companion",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "Experimental Researches in Electricity",
+    "author": "Michael Faraday",
+    "year": 1839,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Theory of Heat",
+    "author": "James Clerk Maxwell",
+    "year": 1871,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Steam Engine and Other Heat Engines",
+    "author": "J. A. Ewing",
+    "year": 1894,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "Radio for the Millions",
+    "author": "Hugo Gernsback",
+    "year": 1922,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The New Science",
+    "author": "Giambattista Vico",
+    "year": 1725,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "Cybernetics",
+    "author": "Norbert Wiener",
+    "year": 1948,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Art of Electronics",
+    "author": "Paul Horowitz and Winfield Hill",
+    "year": 1980,
+    "sourceType": "Historical publication",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The C Programming Language",
+    "author": "Brian Kernighan and Dennis Ritchie",
+    "year": 1978,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "year": 1975,
+    "sourceType": "Historical publication",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Design of Everyday Things",
+    "author": "Donald Norman",
+    "year": 1988,
+    "sourceType": "Historical publication",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Blackwater Engine Manual",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "Plans for the North Pier Crane",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Telegraph Operator’s Handbook",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Lighthouse Lens Maintenance Log",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Bexley Railway Signal Book",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Shipwright’s Repair Ledger",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Greyfen Pumping Station Notes",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Silent Transmitter Schematics",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Harbor Winch Diagram",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Technology & Engineering",
+    "name": "The Clockmaker’s Mechanical Tables",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "Encyclopaedia Britannica (First Edition)",
+    "author": "Multiple contributors",
+    "year": 1771,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "A Dictionary of the English Language",
+    "author": "Samuel Johnson",
+    "year": 1755,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "Roget’s Thesaurus",
+    "author": "Peter Mark Roget",
+    "year": 1852,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Oxford English Dictionary (First Fascicle)",
+    "author": "Oxford University Press",
+    "year": 1884,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Elements of Style",
+    "author": "William Strunk Jr.",
+    "year": 1918,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Chicago Manual of Style",
+    "author": "University of Chicago Press",
+    "year": 1906,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The World Almanac and Book of Facts",
+    "author": "Multiple contributors",
+    "year": 1868,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Blue Book of Grammar and Punctuation",
+    "author": "Jane Straus",
+    "year": 1997,
+    "sourceType": "Historical publication",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "A Dictionary of Modern English Usage",
+    "author": "H. W. Fowler",
+    "year": 1926,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Elements of Euclid",
+    "author": "Euclid",
+    "year": -300,
+    "sourceType": "Historical publication",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Bexley Directory of Trades",
+    "author": "Eleanor Vale",
+    "year": 1847,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Blackwater Shipping Almanac",
+    "author": "Edmund Voss",
+    "year": 1879,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "A Schoolbook of Coastal Botany",
+    "author": "M. Harrow",
+    "year": 1888,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Greyfen Gazetteer",
+    "author": "Clara Whitcomb",
+    "year": 1912,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Parish Birth and Death Index",
+    "author": "Thomas Reed",
+    "year": 1926,
+    "sourceType": "Original fictional game prop",
+    "era": "Classic & Modern"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Bexley College Reader",
+    "author": "Eleanor Vale",
+    "year": 1948,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Harbor Signal Codebook",
+    "author": "Edmund Voss",
+    "year": 1974,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern / late 20th century"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The North County School Atlas",
+    "author": "M. Harrow",
+    "year": 1998,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "A Dictionary of Local Dialects",
+    "author": "Clara Whitcomb",
+    "year": 2009,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  },
+  {
+    "genre": "Reference & Education",
+    "name": "The Clerk’s Pocket Reference",
+    "author": "Thomas Reed",
+    "year": 2019,
+    "sourceType": "Original fictional game prop",
+    "era": "Modern only"
+  }
+]
